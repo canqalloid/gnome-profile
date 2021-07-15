@@ -1,0 +1,58 @@
+window:
+  dimensions:
+    columns: 120
+    lines: 20
+  padding:
+    x: 3
+    y: 3
+  decorations: full
+  title: "#MyTerm"
+background_opacity: 0.8
+font:
+  normal:
+    family: VictorMono Nerd Font Mono
+    style: Semibold
+  bold:
+    family: VictorMono Nerd Font Mono
+    style: Bold
+  bold_italic:
+    family: VictorMono Nerd Font Mono
+    style: Bold Italic
+  italic:
+    family: VictorMono Nerd Font Mono
+    style: Italic
+  size: 10
+selection:
+  semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+cursor:
+  style:
+    shape: Underline
+    blinking: On
+  blink_interval: 600
+  thickness: 0.3
+live_config_reload: true
+colors:
+  primary:
+    background: "#101421"
+    foreground: "#fffbf6"
+  normal:
+    black: "#2e2e2e"
+    red: "#eb4129"
+    green: "#abe047"
+    yellow: "#f6c744"
+    blue: "#47a0f3"
+    magenta: "#7b5cb0"
+    cyan: "#64dbed"
+    white: "#e5e9f0"
+  bright:
+    black: "#565656"
+    red: "#ec5357"
+    green: "#c0e17d"
+    yellow: "#f9da6a"
+    blue: "#49a4f8"
+    magenta: "#a47de9"
+    cyan: "#99faf2"
+    white: "#ffffff"
+"#c594c5": null
+cyan: "#5fb3b3"
+white: "#d8dee9"
